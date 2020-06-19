@@ -1,0 +1,104 @@
+.cursoTituloPrincipal{
+		font-family:Arial;
+		font-size:18px;
+		font-weight:bold;
+		color:#0b5197;
+	}
+	
+	.cursoTituloCurso{
+		font-family:Arial;
+		font-size:16px;
+		font-weight:bold;
+		color:#000000;		
+	}
+	
+	.cursoTituloCursoAzul{
+		font-family:Arial;
+		font-size:16px;
+		font-weight:bold;
+		color:#0b5197;
+	}
+	
+	.cursoTituloCursoVermelho{
+		font-family:Arial;
+		font-size:14px;
+		font-weight:bold;
+		color:#ab2323;
+	}
+	
+	.cursoTexto{
+		font-family:Arial;
+		font-size:13px;		
+		color:#000000;
+		padding-left:20px;
+		
+		
+	}
+
+	
+	
+	
+	li.curso{
+		color:#0b5197;		
+	}
+	
+	/* PAGINA DETALHE DO CURSOS */
+	
+	.cursoDetalheTituloPrincipal{
+		font-family:Arial;
+		font-size:24px;
+		font-weight:bold;
+		color:#0b5197;
+	}
+	
+	.cursoDetalheTitulo{				
+		font-family:Arial;
+		font-size:16px;
+		font-weight:bold;
+		color:#000000;		
+	}
+	
+	.cursoDetalheTexto{	
+		padding-bottom:15px;	
+		font-family:Arial;
+		font-size:15px;		
+		color:#000000;
+		padding-left:20px;
+	}
+	
+	
+	.cursoDetalheTabelaTitulo{				
+		font-family:Arial;
+		font-size:14px;
+		font-weight:bold;
+		color:#000000;
+		padding:3px;		
+	}
+	
+	.cursoDetalheTabelaTexto{
+		padding:3px;
+		font-family:Arial;
+		font-size:13px;		
+		color:#000000;		
+		border-top:1px solid black;
+	}
+	
+	
+	
+	li.detalheDurso{
+		color:#0b5197;
+		
+	}
+	
+	/**/
+	
+	a.cursoLinkMaisNoticia
+	{
+		font-family:Arial;
+		font-size:13px;
+		text-decoration:none;
+		color:#ab2323;	
+		font-weight:bold;		
+	}
+	
+	
